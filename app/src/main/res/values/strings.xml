@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="title">F O C U S</string>
+    <string name="start">START</string>
+    <string name="settime">設定你的結束時間</string>
+    <string name="time">00 : 00</string>
+    <string name="giveup">放 棄</string>
+    <string name="title2">R e c o r d</string>
+    <string name="line">●-------------------------------------------●</string>
+</resources>
